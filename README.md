@@ -1,4 +1,4 @@
-# Blinkit
+Blinkit Analysis
 Business Requirement Report for Blinkit Analysis
 1. Project Overview
 The Blinkit Analysis project aims to perform a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. This analysis is intended to uncover key insights and identify opportunities for optimization using various KPIs (Key Performance Indicators) and visualizations developed in Power BI.
@@ -6,14 +6,10 @@ The Blinkit Analysis project aims to perform a comprehensive analysis of Blinkit
 2. Key Performance Indicators (KPIs)
 The KPIs essential to this analysis focus on evaluating different aspects of sales and customer satisfaction. These KPIs will provide a quantitative measure of performance and will guide optimization strategies. The following KPIs are identified as critical:
 
-2.1 Total Sales
-Objective: Measure the overall revenue generated from all items sold.
-2.2 Average Sales
-Objective: Calculate the average revenue per sale.
-2.3 Number of Items
-Objective: Count the total number of different items sold.
-2.4 Average Rating
-Objective: Assess the average customer rating for items sold.
+Total Sales: Measure the overall revenue generated from all items sold.
+Average Sales: Calculate the average revenue per sale.
+Number of Items: Count the total number of different items sold.
+Average Rating: Assess the average customer rating for items sold.
 3. Chart Requirements
 To present the KPI data effectively, various types of charts and visualizations will be employed. Each chart is designed to highlight specific relationships and insights from the dataset:
 
